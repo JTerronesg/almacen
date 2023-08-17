@@ -1,0 +1,21 @@
+.container{
+    padding: 0px;
+}
+.encabezado{
+    
+    height: 200px;
+}
+
+.inicio{
+  
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.nosotros{
+    height: 650px;
+}
